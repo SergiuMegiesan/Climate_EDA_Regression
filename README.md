@@ -1,2 +1,2 @@
 # Climate_EDA_Regression
-This project contains basic EDA and presents the impact of performing optimization/tuning on ML Regression models ( SGPR: Sparse Gaussian Process Regressor, XGB: Extreme Gradient Boost and RF: Random Forest).
+This project contains basic EDA and presents the impact of performing optimization/tuning on ML Regression models ( SGPR: Sparse Gaussian Process Regressor, XGB: Extreme Gradient Boost and RF: Random Forest) accuracy. The Temperature was predict using the Humidity (significant negative correlation), Wind Speed (not significant correlation) and Pressure (strongly negative correlated). Data selected from Kaggle Time Series Daily Climate data sets: https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data
